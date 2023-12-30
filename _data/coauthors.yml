@@ -1,5 +1,5 @@
 "Chang":
-  - firstname: ["Angel", "AX",  "Angel X.", "Angel Xuan"]
+  - firstname: ["Angel", "AX",  "Angel X.", ""Angel X", "Angel Xuan"]
     url: https://angelxuanchang.github.io
 
 "Savva":
@@ -13,3 +13,15 @@
 "Chen":
   - firstname: ["Dave", "Zhenyu", "Dave Zhenyu"]
     url: https://daveredrum.github.io/
+
+"Nie{\ss}ner":
+  - firstname: ["Matthias"]
+    url: https://www.niessnerlab.org/members/matthias_niessner/profile.html
+
+"Vidanapathirana":
+  - firstname: ["Madhawa"]
+    url: https://madhawav.github.io/
+
+"Furukawa":
+  - firstname: ["Yasutaka"]
+    url: https://yasu-furukawa.github.io/
