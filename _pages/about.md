@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. student in [GrUVi Lab](https://gruvi.cs.sfu.ca/) & [3dlg-hcvc group](https://3dlg-hcvc.github.io/) at Simon Fraser University, supervised by Prof. [Angel X. Chang](https://angelxuanchang.github.io/). I also closely collaborate with Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Daniel Ritchie](https://dritchie.github.io/). My research interests lie in the intersection of computer vision, graphics and natural language processing. My research goal aims at designing systems and developing algorithms for understanding and reconstructing cluttered indoor 3D scenes that enables interactions among embodied agents and humans. More specifically, I'm interested in 
+I am a Ph.D student in [3dlg-hcvc group](https://3dlg-hcvc.github.io/) at Simon Fraser University, supervised by Prof. [Angel X. Chang](https://angelxuanchang.github.io/). I also closely collaborate with Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Daniel Ritchie](https://dritchie.github.io/). My research interests lie in the intersection of computer vision, graphics and natural language processing. My research goal aims at designing systems and developing algorithms for understanding and reconstructing cluttered indoor 3D scenes that enables interactions among embodied agents and humans. More specifically, I'm interested in 
 
 - Open-vocabulary 3D scene understanding
 - Scene-level 3D content creation from real world
