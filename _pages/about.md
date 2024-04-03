@@ -21,8 +21,8 @@ social: false  # includes social icons at the bottom of the page
 
 I am a Ph.D student in [3DLG-HCVC Lab](https://3dlg-hcvc.github.io/) at Simon Fraser University, supervised by Prof. [Angel X. Chang](https://angelxuanchang.github.io/). I also closely collaborate with Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Daniel Ritchie](https://dritchie.github.io/). My research goal aims at designing systems and developing algorithms for understanding and composing cluttered lifelike indoor 3D scenes that enables interactions among embodied agents and humans. More specifically, I'm interested in 
 
-- Open-vocabulary 3D scene understanding
-- Scene-level 3D content creation from real world
+- Open-world 3D scene understanding
+- Scene-level interactable 3D content creation from real world
 - Multi-modality learning between 2D, 3D and language
 - Embodied AI and robotics in general interior 3D environments
 
