@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D student in [3DLG-HCVC Lab](https://3dlg-hcvc.github.io/) at Simon Fraser University, supervised by Prof. [Angel X. Chang](https://angelxuanchang.github.io/). I also closely collaborate with Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Daniel Ritchie](https://dritchie.github.io/). My research goal aims at designing systems and developing algorithms for understanding and composing cluttered lifelike indoor 3D scenes that enables interactions among embodied agents and humans. More specifically, I'm interested in 
+I am a Ph.D student in [3DLG Lab](https://3dlg-hcvc.github.io/) at Simon Fraser University, supervised by Prof. [Angel X. Chang](https://angelxuanchang.github.io/). I also closely collaborate with Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Daniel Ritchie](https://dritchie.github.io/). My research goal aims at designing systems and developing algorithms for understanding and composing cluttered lifelike indoor 3D scenes that enables interactions among embodied agents and humans. More specifically, I'm interested in 
 
 - Open-world 3D scene understanding
 - Scene-level interactable 3D content creation from real world
