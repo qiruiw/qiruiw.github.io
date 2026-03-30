@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D student in [3DLG Lab](https://3dlg-hcvc.github.io/) at Simon Fraser University, supervised by Prof. [Angel X. Chang](https://angelxuanchang.github.io/). I also closely collaborate with Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Daniel Ritchie](https://dritchie.github.io/). My research goal aims at designing systems and developing algorithms for understanding and generating interactable and dynamic 3D world from realistic noisy signals. More specifically, I'm interested in 
+I am a Ph.D student in [3DLG Lab](https://3dlg-hcvc.github.io/) at Simon Fraser University, supervised by Prof. [Angel X. Chang](https://angelxuanchang.github.io/). I also closely collaborate with Prof. [Manolis Savva](https://msavva.github.io/) and Prof. [Daniel Ritchie](https://dritchie.github.io/). My research aims at designing systems and developing algorithms for understanding and generating interactable and dynamic 3D world from realistic noisy signals. More specifically, I'm interested in 
 
 - 4D foundation world models that understand dynamic events, possess persistent memory and evolve alongside streaming visual content.
 - Compositional, interactable and efficient 3D content generation ranging from object parts to large scenes.
