@@ -28,4 +28,4 @@ I am a Ph.D student in [3DLG Lab](https://3dlg-hcvc.github.io/) at Simon Fraser 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
 
-[Google Scholar](https://scholar.google.com/citations?user=9c8J4ogAAAAJ&hl=en) / [Twitter](https://twitter.com/qirui_w) / [Github](https://github.com/qiruiw)
+[Google Scholar](https://scholar.google.com/citations?user=9c8J4ogAAAAJ&hl=en) / [Twitter](https://twitter.com/qirui_w) / [Github](https://github.com/qiruiw) / [LinkedIn](https://www.linkedin.com/in/qirui-wu-946450bb/)
